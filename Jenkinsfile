@@ -33,8 +33,8 @@ pipeline {
 
             steps {
                 
-                    echo "This is dev branch"
-                    echo "hello dev"
+                    echo "This is csk branch"
+                    echo "hello csk"
                 }
             
         }
